@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;br.com.erudio.configuration&apos; to &apos;cambio-service/src/main/java/br.com.erudio&apos;&#x0D;&#x0A;- Original project: &apos;book-service&apos;&#x0D;&#x0A;- Destination element: &apos;cambio-service/src/main/java/br.com.erudio&apos;&#x0D;&#x0A;- Original element: &apos;book-service/src/main/java/br.com.erudio.configuration&apos;" description="Copy package" destination="=cambio-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.erudio" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;br.com.erudio.configuration" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1736789249559" version="1.0"/>
+</session>
