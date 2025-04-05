@@ -1,0 +1,38 @@
+# Ignorar metadados do Eclipse
+.metadata/
+*.iml
+*.ipr
+*.iws
+.idea/
+*.log
+
+# Ignorar diretórios de build comuns
+**/target/
+**/build/
+
+# Ignorar arquivos temporários
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*~
+*.swp
+*.swo
+
+# Credenciais ou arquivos sensíveis
+.env
+application-*.yml
+application-*.properties
+
+# Ignorar arquivos do Maven Wrapper (se quiser)
+.mvn/
+mvnw
+mvnw.cmd
